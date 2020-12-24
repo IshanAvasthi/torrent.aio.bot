@@ -6,15 +6,15 @@ Lorem ipsum i am too lazy figure what it does yourself
 
 You might be lazy too so here ya go:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/patheticGeek/torrent-aio-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dcdunkan/torrent-aio-bot)
 
-Please dont start a test torrent download on my website it works you dont need to just wastes my drive space. Be carefuk when adding torrents to my deployment as it is deployed everytime i commit code here so your downloads may be interrupted.
+Please dont start a test torrent download on my website it works you dont need to just wastes my drive space. Be careful when adding torrents to my deployment as it is deployed everytime i commit code here so your downloads may be interrupted.
 
 ## TODO after deploy
 
 ### To disable website
 
-If you only want telegram bot to be workinh set value of DISABLE_WEB env var to true.
+If you only want telegram bot to be working set value of DISABLE_WEB env var to true.
 
 ### To get torrent download working:
 
